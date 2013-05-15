@@ -1,5 +1,5 @@
 {
-    "name": "errors",
+    "name": "meteor-errors",
     "description": "A pattern to display application errors to the user",
     "homepage": "https://github.com/tmeasday/meteor-errors",
     "author": "Tom Coleman <tom@thesnail.org>",
